@@ -2,7 +2,7 @@
 Sistema Operativo 3
 # Practica 1: Gestion de Paquetes y Repositorios en RHEL
 
-# 1. Actualizar los repositorios del sistema
+# Actualizar los repositorios del sistema
 dnf update -y && dnf upgrade -y
 
 # 2. Listar los repositorios actualmente en uso
